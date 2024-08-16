@@ -4,3 +4,5 @@ The Manual Exploration Demonstrator (MED) is a rover developed to enhance hands-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8327a3b1-5155-4a9e-af3e-ed5bbbbabbe0" width="800" height="400" />
 </p>
+
+## About MED
