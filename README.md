@@ -1,4 +1,5 @@
 # Manual-Exploration-Demonstrator_MED
 The Manual Exploration Demonstrator (MED) is a rover developed to enhance hands-on exploration capabilities. Inspiration from Mechanical Sciences’ - [Design and analysis of a six-wheeled companion robot with mechanical obstacle-overcoming adaptivity](https://ms.copernicus.org/articles/12/1115/2021/). This documentation provides an overview of MED's design, components, and operational guidelines to facilitate its use and maintenance.
 
-![Labeled_Render](https://github.com/S3bast1anC/Manual-Exploration-Demonstrator_MED/issues/2#issue-2470674042)
+![IMG_9376](https://github.com/user-attachments/assets/8327a3b1-5155-4a9e-af3e-ed5bbbbabbe0)
+
