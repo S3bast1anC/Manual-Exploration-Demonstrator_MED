@@ -21,5 +21,5 @@ Six-Wheel Drive: MED is built on a six-wheel drive system, providing improved tr
 <ul>
   <li> <b> Six-Wheel Drive: </b> MED is built on a six-wheel drive system, providing improved traction and stability. This configuration ensures balanced weight distribution and allows the rover to handle rough, uneven surfaces with ease.</li>
   <li> <b> Freely Rotating Rear Arms: </b> The two rear arms are capable of rotating freely, giving the rover additional flexibility when navigating obstacles. These arms help stabilize the rover going over inclines and allow for obstacle-overcoming adaptivity in challenging environments.</li>
-  <li>Milk</li>
+  <li> <b> Lightweight Build: </b> Constructed from PLA and acrylic, MED’s lightweight chassis allows for quick movements and reduced energy consumption, while still offering a durable frame for the rover's internal electronics. The combination of these materials strikes an ideal balance between durability and weight, enabling both indoor and outdoor testing.</li>
 </ul>
