@@ -19,7 +19,7 @@ We aim to share insights and lessons learned from the design, testing, and imple
 Six-Wheel Drive: MED is built on a six-wheel drive system, providing improved traction and stability. This configuration ensures balanced weight distribution and allows the rover to handle rough, uneven surfaces with ease.
 
 <ul>
-  <li><b>Six-Wheel Drive</b>b : MED is built on a six-wheel drive system, providing improved traction and stability. This configuration ensures balanced weight distribution and allows the rover to handle rough, uneven surfaces with ease.</li>
+  <li> <b> Six-Wheel Drive: </b> MED is built on a six-wheel drive system, providing improved traction and stability. This configuration ensures balanced weight distribution and allows the rover to handle rough, uneven surfaces with ease.</li>
   <li>Tea</li>
   <li>Milk</li>
 </ul>
