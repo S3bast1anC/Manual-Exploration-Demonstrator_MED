@@ -11,3 +11,7 @@ MED's main concept was a six-wheel rover with two freely rotating rear arms. Thi
 
 
 We aim to share insights and lessons learned from the design, testing, and implementation of the MED rover. We hope that this information will not only assist the MHAB team but also inspire and guide future rover projects by both student teams and professionals alike. 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8327a3b1-5155-4a9e-af3e-ed5bbbbabbe0" width="800" height="400" />
+</p>
