@@ -7,8 +7,10 @@ The Manual Exploration Demonstrator (MED) is a rover developed to test hands-on 
 
 ## About MED
 ### Motivation
-MED's main concept was a six-wheel rover with two freely rotating rear arms. This rover was created for the Mars Habitat at Berkeley (MHAB) software sub-team for autonomous code testing. Before being handed to software, 
+MED's main concept was a six-wheel rover with two freely rotating rear arms. This rover was created for the Mars Habitat at Berkeley (MHAB) software sub-team for autonomous code testing. The rover's modular design allows for future modifications, whether through hardware upgrades or software adjustments. Its six-wheel configuration enables smooth navigation across simulated Martian terrain, while the rotating rear arms provide additional support for overcoming obstacles.
 
 We hope that the information shared may inspire future rover projects. 
+
+
 
 Different approaches were considered, earlier designs were going to use a rod across the body of the frame connecting the two arms holding the motors.  “self-adaptive obstacle-crossing robot”MED was created in order to have a rover to have test code
