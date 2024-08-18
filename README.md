@@ -19,6 +19,10 @@ We aim to share insights and lessons learned from the design, testing, and imple
   <source src="https://drive.google.com/file/d/1eNPRhZf1bSRPf8Z2jzoEvB85NT3eYJWq/view?usp=drivesdk" type="video/mp4">
 </video>
 
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+
+
+
 
 ### Features
 Six-Wheel Drive: MED is built on a six-wheel drive system, providing improved traction and stability. This configuration ensures balanced weight distribution and allows the rover to handle rough, uneven surfaces with ease.
