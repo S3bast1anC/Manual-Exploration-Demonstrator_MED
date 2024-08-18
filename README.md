@@ -30,15 +30,19 @@ We aim to share insights and lessons learned from the design, testing, and imple
   </tr>
   <tr>
     <td>RPM</td>
-    <td>Speed</td>
+    <td>##</td>
   </tr>
   <tr>
     <td>Speed</td>
-    <td>Francisco Chang</td>
+    <td>##</td>
   </tr>
    <tr>
     <td>Mass</td>
-    <td>Speed</td>
+    <td>##</td>
+  </tr>
+  <tr>
+    <td>Cost</td>
+    <td>##</td>
   </tr>
 </table>
 
