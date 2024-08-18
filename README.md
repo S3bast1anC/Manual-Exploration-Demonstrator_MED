@@ -16,8 +16,8 @@ We aim to share insights and lessons learned from the design, testing, and imple
 </p>
 
 <p align="center">
-<video width="650" height="400" controls>
-  <source src="https://drive.google.com/file/d/1eNPRhZf1bSRPf8Z2jzoEvB85NT3eYJWq/view?usp=drivesdk" type="video/mp4">
+<video >
+  <source src="https://drive.google.com/file/d/1eNPRhZf1bSRPf8Z2jzoEvB85NT3eYJWq/view?usp=drivesdk" width="650" height="400" type="video/mp4">
 </video>
 </p>
 
