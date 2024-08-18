@@ -23,7 +23,7 @@ We aim to share insights and lessons learned from the design, testing, and imple
 
 [![Watch the video](https://github.com/user-attachments/assets/9258d1f0-4832-4177-8f42-de1f7d37c421)](https://youtu.be/vt5fpE0bzSY) width="650" height="400"
 
-[![Watch the video](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/thumbnail.jpg)(https://raw.githubusercontent.com/S3bast1anC/Manual-Exploration-Demonstrator_MED/main/assets/Course.mp4)
+[![Watch the video](https://github.com/user-attachments/assets/9258d1f0-4832-4177-8f42-de1f7d37c421)](https://youtu.be/vt5fpE0bzSY)(https://raw.githubusercontent.com/S3bast1anC/Manual-Exploration-Demonstrator_MED/main/assets/Course Video.mp4)
 
 
 
