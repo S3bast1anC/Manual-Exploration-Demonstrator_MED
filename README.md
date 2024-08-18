@@ -15,9 +15,11 @@ We aim to share insights and lessons learned from the design, testing, and imple
   <img src="https://github.com/user-attachments/assets/43d78482-e38e-4f1f-85d5-6ead06611cae" width="650" height="400" />
 </p>
 
+<p align="center">
 <video width="320" height="240" controls>
   <source src="https://drive.google.com/file/d/1eNPRhZf1bSRPf8Z2jzoEvB85NT3eYJWq/view?usp=drivesdk" width="500" height="400" type="video/mp4">
 </video>
+</p>
 
 [![Watch the video](https://github.com/user-attachments/assets/9258d1f0-4832-4177-8f42-de1f7d37c421)](https://youtu.be/vt5fpE0bzSY)
 
