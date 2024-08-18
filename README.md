@@ -25,14 +25,14 @@ We aim to share insights and lessons learned from the design, testing, and imple
 
 <table>
   <tr>
-    <th>Company</th>
+    <th>Specs</th>
     <th>Contact</th>
     <th>Country</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>RPM</td>
+    <td>Spepd</td>
+    <td>Mass</td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
