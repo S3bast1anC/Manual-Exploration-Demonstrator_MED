@@ -71,17 +71,12 @@ Six-Wheel Drive: MED is built on a six-wheel drive system, providing improved tr
                 alt="GFG Logo" width="100" 
                 height="100"> 
             </td> 
-            <td>XYZ</td> 
-            <td>xyz@geeksforgeeks.org</td> 
-        </tr> 
         <tr> 
             <td><img src= 
 "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" 
                 alt="GFG Logo" width="100" 
                 height="100"> 
             </td> 
-            <td>ABC</td> 
-            <td>abc@geeksforgeeks.org</td> 
         </tr> 
     </table> 
 
