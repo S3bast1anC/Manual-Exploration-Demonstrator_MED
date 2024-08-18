@@ -59,10 +59,9 @@ Six-Wheel Drive: MED is built on a six-wheel drive system, providing improved tr
 </ul>
 
 ### ELECTRONICS
+
+
 <table border="1"> 
-        <tr> 
-            <th>Image</th> 
-        </tr> 
         <tr> 
             <td><img src= 
 "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" 
