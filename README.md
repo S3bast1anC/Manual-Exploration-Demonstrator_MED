@@ -19,7 +19,7 @@ We aim to share insights and lessons learned from the design, testing, and imple
   <source src="https://drive.google.com/file/d/1eNPRhZf1bSRPf8Z2jzoEvB85NT3eYJWq/view?usp=drivesdk" type="video/mp4">
 </video>
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://github.com/user-attachments/assets/9258d1f0-4832-4177-8f42-de1f7d37c421)](https://youtu.be/vt5fpE0bzSY)
 
 
 
