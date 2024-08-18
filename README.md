@@ -21,7 +21,7 @@ We aim to share insights and lessons learned from the design, testing, and imple
 </video>
 </p>
 
-[![Watch the video](https://github.com/user-attachments/assets/9258d1f0-4832-4177-8f42-de1f7d37c421)](https://github.com/S3bast1anC/Manual-Exploration-Demonstrator_MED/blob/9ace7aba4607269a3d07c79d55fd9bb5d764f6ef/Course)
+[![Watch the video](https://github.com/user-attachments/assets/9258d1f0-4832-4177-8f42-de1f7d37c421)](https://github.com/S3bast1anC/Manual-Exploration-Demonstrator_MED/blob/43107df9c9236514cd39abedad3494ebd0bf3152/Course.mp4)
 
 
 
