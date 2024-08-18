@@ -23,6 +23,23 @@ We aim to share insights and lessons learned from the design, testing, and imple
 
 [![Watch the video](https://github.com/user-attachments/assets/9258d1f0-4832-4177-8f42-de1f7d37c421)](https://github.com/S3bast1anC/Manual-Exploration-Demonstrator_MED/blob/43107df9c9236514cd39abedad3494ebd0bf3152/Course.mp4)
 
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
 
 
 ### Features
