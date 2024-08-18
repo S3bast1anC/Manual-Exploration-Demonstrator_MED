@@ -31,13 +31,18 @@ We aim to share insights and lessons learned from the design, testing, and imple
   </tr>
   <tr>
     <td>RPM</td>
-    <td>Spepd</td>
+    <td>Speed</td>
     <td>Mass</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
+    <td>Speed</td>
     <td>Francisco Chang</td>
     <td>Mexico</td>
+  </tr>
+   <tr>
+    <td>Mass</td>
+    <td>Speed</td>
+    <td>Mass</td>
   </tr>
 </table>
 
