@@ -26,23 +26,19 @@ We aim to share insights and lessons learned from the design, testing, and imple
 <table>
   <tr>
     <th>Specs</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>  </th>
   </tr>
   <tr>
     <td>RPM</td>
     <td>Speed</td>
-    <td>Mass</td>
   </tr>
   <tr>
     <td>Speed</td>
     <td>Francisco Chang</td>
-    <td>Mexico</td>
   </tr>
    <tr>
     <td>Mass</td>
     <td>Speed</td>
-    <td>Mass</td>
   </tr>
 </table>
 
