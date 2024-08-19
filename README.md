@@ -16,6 +16,9 @@ We aim to share insights and lessons learned from the design, testing, and imple
     <img src="https://github.com/user-attachments/assets/0a59afe7-0a09-47da-bc90-da4362551b3e" style="width: 100%;"/>
 </p>
 
+<p align="center" style="margin: 0;">
+    <img src="https://github.com/user-attachments/assets/0a59afe7-0a09-47da-bc90-da4362551b3e" style="width: 100vw; height: auto; display: block; margin: 0;" />
+</p>
 
 
 
