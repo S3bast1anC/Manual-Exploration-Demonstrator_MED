@@ -81,6 +81,33 @@ Development of MED began as part of the Final BLE Vehicle project for the UC Ber
   </tr>
 </table>
 
+
+<div style="text-align: center;">
+  <table border="1" style="margin: 0 auto;">
+    <tr>
+      <th>Specs</th>
+      <th></th>
+    </tr>
+    <tr>
+      <td>RPM</td>
+      <td>##</td>
+    </tr>
+    <tr>
+      <td>Speed</td>
+      <td>##</td>
+    </tr>
+    <tr>
+      <td>Mass</td>
+      <td>##</td>
+    </tr>
+    <tr>
+      <td>Cost</td>
+      <td>##</td>
+    </tr>
+  </table>
+</div>
+
+
 <p align="center" style="margin: 0;">
     <img src="https://github.com/user-attachments/assets/0a59afe7-0a09-47da-bc90-da4362551b3e" style="width: 100vw; height: auto; display: block; margin: 0;" />
 </p>
