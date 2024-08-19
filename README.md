@@ -21,10 +21,27 @@ Development of MED began as part of the Final BLE Vehicle project for the UC Ber
 
 <table border="0"> 
         <tr> 
-            <td><img src= 
-"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" 
-                alt="GFG Logo" width="100" 
-                height="100"> 
+            <td>
+            <tr>
+    <th>Specs</th>
+    <th>  </th>
+  </tr>
+  <tr>
+    <td>RPM</td>
+    <td>##</td>
+  </tr>
+  <tr>
+    <td>Speed</td>
+    <td>##</td>
+  </tr>
+   <tr>
+    <td>Mass</td>
+    <td>##</td>
+  </tr>
+  <tr>
+    <td>Cost</td>
+    <td>##</td>
+  </tr>    
             </td>  
           <td><img src= 
 "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" 
