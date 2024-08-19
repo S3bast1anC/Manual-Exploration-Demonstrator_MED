@@ -12,16 +12,7 @@ The core design of MED revolves around a six-wheel rover with two independently 
 We aim to share insights and lessons learned from the design, testing, and implementation of the MED rover. We hope that this information will not only assist the MHAB team but also inspire and guide future rover projects.
 
 ### Overview
-<style>
-  .full-width-img {
-    width: 100%;
-    height: auto;
-  }
-</style>
 
-<div style="width: 100vw; overflow: hidden; margin: 0; padding: 0;">
-  <img src="https://github.com/user-attachments/assets/0a59afe7-0a09-47da-bc90-da4362551b3e" class="full-width-img" alt="v5">
-</div>
 
 
 
