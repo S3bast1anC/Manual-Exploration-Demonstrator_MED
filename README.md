@@ -17,40 +17,6 @@ We aim to share insights and lessons learned from the design, testing, and imple
 </p>
 
 Development of MED began as part of the Final BLE Vehicle project for the UC Berkeley Summer 2024 DesInv22 class. Over the course of four weeks, myself and Andrew Alatorre engaged in a process of design, testing, iteration, and refinement to bring the rover to its current state.
-<table border="1"> 
-        <tr> 
-            <td><
-              <table>
-  <tr>
-    <th>Specs</th>
-    <th>  </th>
-  </tr>
-  <tr>
-    <td>RPM</td>
-    <td>##</td>
-  </tr>
-  <tr>
-    <td>Speed</td>
-    <td>##</td>
-  </tr>
-   <tr>
-    <td>Mass</td>
-    <td>##</td>
-  </tr>
-  <tr>
-    <td>Cost</td>
-    <td>##</td>
-  </tr>
-</table>
-
-            </td> 
-          <td><img src= 
-"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" 
-                alt="GFG Logo" width="100" 
-                height="100"> 
-            </td> 
-        <tr> 
-    </table> 
 
 
 
