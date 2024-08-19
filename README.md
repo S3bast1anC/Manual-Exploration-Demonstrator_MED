@@ -21,7 +21,7 @@ We aim to share insights and lessons learned from the design, testing, and imple
 </video>
 </p>
 
-[![Watch the video](https://github.com/user-attachments/assets/9258d1f0-4832-4177-8f42-de1f7d37c421)](https://youtu.be/sea0DLn0pgA)
+[![Watch the video](https://github.com/user-attachments/assets/9258d1f0-4832-4177-8f42-de1f7d37c421) width="650" height="400"](https://youtu.be/sea0DLn0pgA)
 
 <table>
   <tr>
