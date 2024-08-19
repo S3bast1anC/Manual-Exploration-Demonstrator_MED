@@ -13,6 +13,7 @@ We aim to share insights and lessons learned from the design, testing, and imple
 
 ### Overview
 
+[View full-width image](https://yourusername.github.io/repositoryname/fullWidth.html)
 
 
 
