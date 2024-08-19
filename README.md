@@ -13,7 +13,7 @@ We aim to share insights and lessons learned from the design, testing, and imple
 
 ### Overview
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/0a59afe7-0a09-47da-bc90-da4362551b3e" style="width: 100%;"/>
+    <img src="https://github.com/user-attachments/assets/0a59afe7-0a09-47da-bc90-da4362551b3e"/>
 </p>
 
 <p align="center" style="margin: 0;">
