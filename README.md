@@ -19,6 +19,40 @@ We aim to share insights and lessons learned from the design, testing, and imple
 Development of MED began as part of the Final BLE Vehicle project for the UC Berkeley Summer 2024 DesInv22 class. Over the course of four weeks, myself and Andrew Alatorre engaged in a process of design, testing, iteration, and refinement to bring the rover to its current state.
 
 
+<table>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <th>Specification</th>
+          <th>Details</th>
+        </tr>
+        <tr>
+          <td>RPM</td>
+          <td>255</td>
+        </tr>
+        <tr>
+          <td>Speed</td>
+          <td>0.5 m/s</td>
+        </tr>
+        <tr>
+          <td>Mass</td>
+          <td>3.5 kg</td>
+        </tr>
+        <tr>
+          <td>Cost</td>
+          <td>$500</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <img src="https://example.com/image.jpg" alt="Rover Image" width="300"/>
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 <table>
