@@ -11,13 +11,13 @@ The core design of MED revolves around a six-wheel rover with two independently 
 
 We aim to share insights and lessons learned from the design, testing, and implementation of the MED rover. We hope that this information will not only assist the MHAB team but also inspire and guide future rover projects by both student teams and professionals alike. 
 
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/0a59afe7-0a09-47da-bc90-da4362551b3e" alt="v5">
+</div>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/43d78482-e38e-4f1f-85d5-6ead06611cae" width="650" height="400" />
 </p>
-
-![v5](https://github.com/user-attachments/assets/0a59afe7-0a09-47da-bc90-da4362551b3e)
-
-
 
 <a href="https://youtu.be/sea0DLn0pgA" target="_blank">
     <img src="https://github.com/user-attachments/assets/4a8a327f-5c5b-4007-b593-dffaa204a712" alt="Watch the video" width="650" height="400">
