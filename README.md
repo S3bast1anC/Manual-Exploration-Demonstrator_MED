@@ -37,7 +37,7 @@ We aim to share insights and lessons learned from the design, testing, and imple
             </td> 
           <td>
               <a href="https://youtu.be/sea0DLn0pgA" target="_blank">
-              <img src="https://github.com/user-attachments/assets/4a8a327f-5c5b-4007-b593-dffaa204a712" alt="Watch the video" width="650" height="400">
+              <img src="https://github.com/user-attachments/assets/4a8a327f-5c5b-4007-b593-dffaa204a712" alt="Watch the video" width="400" height="200">
               </a>
             </td>  
         </tr> 
