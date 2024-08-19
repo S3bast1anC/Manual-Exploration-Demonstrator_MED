@@ -82,8 +82,8 @@ Development of MED began as part of the Final BLE Vehicle project for the UC Ber
 </table>
 
 
-<div style="text-align: center;">
-  <table border="1" style="margin: 0 auto;">
+<p align="center">
+  <table border="1">
     <tr>
       <th>Specs</th>
       <th></th>
@@ -105,7 +105,8 @@ Development of MED began as part of the Final BLE Vehicle project for the UC Ber
       <td>##</td>
     </tr>
   </table>
-</div>
+</p>
+
 
 
 <p align="center" style="margin: 0;">
