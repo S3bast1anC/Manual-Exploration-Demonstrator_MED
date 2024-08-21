@@ -29,19 +29,19 @@ Development of MED began as part of the Final BLE Vehicle project for the UC Ber
         </tr>
         <tr>
           <td>RPM</td>
-          <td>255</td>
+          <td>240</td>
         </tr>
         <tr>
           <td>Speed</td>
-          <td>0.5 m/s</td>
+          <td> ?? m/s</td>
         </tr>
         <tr>
           <td>Mass</td>
-          <td>3.5 kg</td>
+          <td> ?? kg</td>
         </tr>
         <tr>
           <td>Cost</td>
-          <td>$500</td>
+          <td> ## </td>
         </tr>
       </table>
     </td>
