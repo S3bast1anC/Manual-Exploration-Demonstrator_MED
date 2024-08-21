@@ -111,3 +111,6 @@ Six-Wheel Drive: MED is built on a six-wheel drive system, providing improved tr
         </tr> 
     </table> 
 
+<a href="https://store-usa.arduino.cc/products/arduino-uno-rev3?srsltid=AfmBOorpQkAFCFV9pK8a8AKKXCVHNyX5GI4hv3l4IM5aVDzLocPXSwW7" target="_blank">
+    <img src="https://github.com/user-attachments/assets/4a8a327f-5c5b-4007-b593-dffaa204a712" alt="Watch the video" width="550" height="400">
+</a>
