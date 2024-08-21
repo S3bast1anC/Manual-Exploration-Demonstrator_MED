@@ -85,7 +85,7 @@ Six-Wheel Drive: MED is built on a six-wheel drive system, providing improved tr
 ### ELECTRONICS
 - [Arduino Uno Rev3]()
 - Adafruit Motor Shield V2
-- [Bluefruit LE UART BT BLE](https://www.digikey.com/en/products/detail/adafruit-industries-llc/2479/5356835?utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_Low%20ROAS%20Categories&utm_term=&utm_content=&utm_id=go_cmp-20243063506_adg-_ad-__dev-c_ext-_prd-5356835_sig-EAIaIQobChMIztqP7MyGiAMVFh6tBh2mNAVsEAQYASABEgJBQPD_BwE&gad_source=1&gclid=EAIaIQobChMIztqP7MyGiAMVFh6tBh2mNAVsEAQYASABEgJBQPD_BwE)
+- Bluefruit LE UART BT BLE ([DIGIKEY](https://www.digikey.com/en/products/detail/adafruit-industries-llc/2479/5356835?utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_Low%20ROAS%20Categories&utm_term=&utm_content=&utm_id=go_cmp-20243063506_adg-_ad-__dev-c_ext-_prd-5356835_sig-EAIaIQobChMIztqP7MyGiAMVFh6tBh2mNAVsEAQYASABEgJBQPD_BwE&gad_source=1&gclid=EAIaIQobChMIztqP7MyGiAMVFh6tBh2mNAVsEAQYASABEgJBQPD_BwE))
 - 4 DC Gear Motor TT - 120 RPM
 - 10 AA Batteries (4 for R3 board, 6 for DC motors)
 
