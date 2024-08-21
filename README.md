@@ -91,7 +91,7 @@ Six-Wheel Drive: MED is built on a six-wheel drive system, providing improved tr
 - 10 AA Batteries (4 for R3 board, 6 for DC motors)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8327a3b1-5155-4a9e-af3e-ed5bbbbabbe0" width="800" height="400" />
+  <img src="https://github.com/user-attachments/assets/b7ac72f9-31ec-4863-a756-b961791c01ae" width="800" height="400" />
 </p>
 
 
