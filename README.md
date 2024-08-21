@@ -54,7 +54,8 @@ Development of MED began as part of the Final BLE Vehicle project for the UC Ber
 </table>
 </div>
 
-## Features
+## Components
+### Features
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/43d78482-e38e-4f1f-85d5-6ead06611cae" width="650" height="400" />
