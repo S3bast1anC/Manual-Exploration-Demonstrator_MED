@@ -91,13 +91,6 @@ Six-Wheel Drive: MED is built on a six-wheel drive system, providing improved tr
 - 10 AA Batteries (4 for R3 board, 6 for DC motors)
 
 
-
-
-
-[Design and analysis of a six-wheeled companion robot with mechanical obstacle-overcoming adaptivity](https://ms.copernicus.org/articles/12/1115/2021/)
-
-
-
 <table border="1"> 
         <tr> 
             <td><img src= 
