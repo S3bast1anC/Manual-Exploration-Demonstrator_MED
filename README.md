@@ -83,6 +83,11 @@ Six-Wheel Drive: MED is built on a six-wheel drive system, providing improved tr
 </ul>
 
 ### ELECTRONICS
+- Arduino Uno Rev3
+- Adafruit Motor Shield V2
+- Bluefruit LE UART BT BLE
+- 4 DC Gear Motor TT - 120 RPM
+- 10 AA Batteries (4 for R3 board, 6 for DC motors)
 
 
 <table border="1"> 
