@@ -84,34 +84,3 @@ Development of MED began as part of the Final BLE Vehicle project for the UC Ber
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b7ac72f9-31ec-4863-a756-b961791c01ae" width="600" height="550" />
 </p>
-
-
-<table border="1"> 
-        <tr> 
-            <td><img src= 
-"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" 
-                alt="GFG Logo" width="100" 
-                height="100"> 
-            </td> 
-          <td><img src= 
-"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" 
-                alt="GFG Logo" width="100" 
-                height="100"> 
-            </td> 
-        <tr> 
-            <td><img src= 
-"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" 
-                alt="GFG Logo" width="100" 
-                height="100"> 
-            </td> 
-          <td><img src= 
-"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" 
-                alt="GFG Logo" width="100" 
-                height="100"> 
-            </td> 
-        </tr> 
-    </table> 
-
-<a href="https://store-usa.arduino.cc/products/arduino-uno-rev3?srsltid=AfmBOorpQkAFCFV9pK8a8AKKXCVHNyX5GI4hv3l4IM5aVDzLocPXSwW7" target="_blank">
-    <img src="https://github.com/user-attachments/assets/86e5e12c-7286-4164-8783-b7ca691af8b1" width="550" height="400">
-</a>
