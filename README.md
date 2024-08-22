@@ -89,6 +89,6 @@ Development of MED began as part of the Final BLE Vehicle project for the UC Ber
 This drawing presents the geometric parameter model of MED. The diagram highlights the rover's key coordinate frames, geometric parameters, and critical angles.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b7ac72f9-31ec-4863-a756-b961791c01ae" width="600" height="550" />
+  <img src="https://github.com/user-attachments/assets/b7ac72f9-31ec-4863-a756-b961791c01ae" width="550" height="400" />
 </p>
 
