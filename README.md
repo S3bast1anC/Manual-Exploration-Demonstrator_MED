@@ -80,7 +80,7 @@ Development of MED began as part of the Final BLE Vehicle project for the UC Ber
 ### Other Parts
 - 3 Radial Ball Bearings (608ZZ) ([DIGIKEY](https://www.digikey.com/en/products/detail/adafruit-industries-llc/1178/5356858?_gl=1*1i5bfi0*_up*MQ..&gclid=EAIaIQobChMI_8uYnc6GiAMVuTetBh3_FTN3EAQYASABEgL3VvD_BwE))
 - 2 4AA Battery Holder with On/Off Switch ([PARTSEXP](https://www.parts-express.com/4-AA-Battery-Holder-with-On-Off-Switch-140-784?quantity=1&utm_source=google&utm_medium=cpc&utm_campaign=21096330877&utm_content=163485008367&gadid=693249752043&gad_source=1&gclid=EAIaIQobChMI4NCnx-mGiAMVVQKtBh3b0yNSEAQYAyABEgL6BPD_BwE))
-
+- 1 2AA Battery Holder with On/Off Switch ([DIGIKEY](https://www.digikey.com/en/products/detail/sparkfun-electronics/PRT-09925/6161750?utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_Low%20ROAS%20Categories&utm_term=&utm_content=&utm_id=go_cmp-20243063506_adg-_ad-__dev-c_ext-_prd-6161750_sig-EAIaIQobChMIq9-B3caJiAMVm9XCBB0X_xDbEAQYASABEgLW-vD_BwE&gad_source=1&gclid=EAIaIQobChMIq9-B3caJiAMVm9XCBB0X_xDbEAQYASABEgLW-vD_BwE))
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b7ac72f9-31ec-4863-a756-b961791c01ae" width="600" height="550" />
 </p>
