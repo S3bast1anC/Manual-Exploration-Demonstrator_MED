@@ -107,3 +107,5 @@ Angles:
 - θ_r: Right arm swing angle.
 - θ_l: Left arm swing angle.
 - θ_b: Rear body rotation angle.
+
+## Software
