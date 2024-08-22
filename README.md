@@ -92,3 +92,18 @@ This drawing presents the geometric parameter model of MED. The diagram highligh
   <img src="https://github.com/user-attachments/assets/c7d1c9f2-744d-4b60-a5c9-23852d92105f" width="550" height="400" />
 </p>
 
+Coordinate Frames:
+- O: Global reference frame.
+
+Key Measurements:
+
+- Width (W): Rover’s total width.
+- Length (L): Length of front and rear sections.
+- Arm Radius (R): Radius of arms centroid to tip of rocker arm wheels
+- Arm Wheel Radius (r_0): Radius of arm wheels
+- Rear Wheel radius (r_1): Radius of rear wheels
+Angles:
+
+- θ_r: Right arm swing angle.
+- θ_l: Left arm swing angle.
+- θ_b: Rear body rotation angle.
