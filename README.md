@@ -91,15 +91,17 @@ The V-in on the the adafruit motor shield was busted (i.e it wouldn't power the 
 ## Software
 ### Setup
 
+
+1. Ada_BLE_RC.ino - This is the main Arduino sketch file that contains the code to control the rover.
+2. BluefruitConfig.h - This header file includes configuration settings specific to the Adafruit Bluefruit BLE module, such as connection parameters and pin definitions.
+3. packetParser.cpp - This C++ file handles the parsing of incoming data packets from the Bluetooth controller, translating them into motor control commands for the rover.
+
+Once you have these files inside the Ada_BLE_RC folder, the entire folder should be uploaded to the Arduino IDE.
+
+To ensure the code runs correctly, you need to install the following libraries in your Arduino IDE:
+- 
+
 ![Untitled-1](https://github.com/user-attachments/assets/ee7e7a2d-93f2-459b-b860-7263f17b6efb)
-1. Ada_BLE_RC.ino
-This is the main Arduino sketch file that contains the code to control the rover.
-
-2. BluefruitConfig.h
-This header file includes configuration settings specific to the Adafruit Bluefruit BLE module, such as connection parameters and pin definitions.
-
-3. packetParser.cpp
-This C++ file handles the parsing of incoming data packets from the Bluetooth controller, translating them into motor control commands for the rover.
 
 ## Maths
 This drawing presents the geometric parameter model of MED. The diagram highlights the rover's key coordinate frames, geometric parameters, and critical angles.
