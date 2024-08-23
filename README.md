@@ -90,6 +90,8 @@ The V-in on the the adafruit motor shield was busted (i.e it wouldn't power the 
 
 ## Software
 ### Name
+![Untitled-1](https://github.com/user-attachments/assets/ee7e7a2d-93f2-459b-b860-7263f17b6efb)
+
 
 ## Maths
 This drawing presents the geometric parameter model of MED. The diagram highlights the rover's key coordinate frames, geometric parameters, and critical angles.
