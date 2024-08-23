@@ -85,6 +85,8 @@ Development of MED began as part of the Final BLE Vehicle project for the UC Ber
   <img src="https://github.com/user-attachments/assets/b7ac72f9-31ec-4863-a756-b961791c01ae" width="600" height="550" />
 </p>
 
+### Notes
+The V-in on the the adafruit motor shield was busted (i.e it wouldn't power the arduino board which is an issue because that's what runs the code) so to solve this issue a 4 battery pack was soddered onto the bottom of the board to power it.
 ## Maths
 This drawing presents the geometric parameter model of MED. The diagram highlights the rover's key coordinate frames, geometric parameters, and critical angles.
 
