@@ -86,7 +86,7 @@ Development of MED began as part of the Final BLE Vehicle project for the UC Ber
 </p>
 
 ### Notes
-The V-in on the the adafruit motor shield was busted (i.e it wouldn't power the arduino which is an issue because that's what runs the code) so to solve this issue a 4 battery pack was soddered onto the bottom of the board to power it. Also the arduino is a limited edition [Maker Shed Exclusive](https://makezine.com/article/technology/arduino/maker-shed-exclusive-make-special-edition-arduino-unos/) uno board (no particular reason that's just what was lying around).
+The V-in on the the adafruit motor shield was busted (i.e it wouldn't power the arduino which is an issue because that's what runs the code) so to solve this issue a 4 battery pack was soddered onto the bottom of the board to power it (it's a 5V board). Also the arduino is a limited edition [Maker Shed Exclusive](https://makezine.com/article/technology/arduino/maker-shed-exclusive-make-special-edition-arduino-unos/) uno board (no particular reason that's just what was lying around).
 ## Maths
 This drawing presents the geometric parameter model of MED. The diagram highlights the rover's key coordinate frames, geometric parameters, and critical angles.
 
