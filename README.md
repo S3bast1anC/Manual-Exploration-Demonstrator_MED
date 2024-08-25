@@ -157,7 +157,7 @@ The radii R and r<sub>0</sub>​ describe the size and positioning of the rocker
     </th>
     <th>
       <p align="center">
-        <img src="https://github.com/user-attachments/assets/43d78482-e38e-4f1f-85d5-6ead06611cae" width="650" height="400" />
+        <img src="https://github.com/user-attachments/assets/ee024cc4-d201-4e57-bbc8-52a19f6b9e72" width="650" height="400" />
       </p>
     </th>
   </tr>
