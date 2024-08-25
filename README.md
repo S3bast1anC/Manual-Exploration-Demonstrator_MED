@@ -112,7 +112,7 @@ The Bluefruit Connect app by Adafruit allows you to send commands to your rover 
 
 To change the rpm the motors go at go to lines 302-305 (for example 'L_MOTOR1->setSpeed(##);' ).
 
-## Maths
+## Parameterized Design Model
 This drawing presents the geometric parameter model of MED. The diagram highlights the rover's key coordinate frames, geometric parameters, and critical angles.
 
 <p align="center">
