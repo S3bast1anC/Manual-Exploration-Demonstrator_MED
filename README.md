@@ -28,16 +28,16 @@ Development of MED began as part of the Final BLE Vehicle project for the UC Ber
           <th>Details</th>
         </tr>
         <tr>
-          <td>RPM</td>
-          <td>240</td>
+          <td>Dimension (LxWxH)</td>
+          <td>tbd</td>
         </tr>
         <tr>
-          <td>Speed</td>
-          <td> ?? m/s</td>
+          <td>Top Speed</td>
+          <td> tbd m/s</td>
         </tr>
         <tr>
-          <td>Mass</td>
-          <td> ?? kg</td>
+          <td>Total Mass</td>
+          <td> tbd kg</td>
         </tr>
         <tr>
           <td>Wheel Diameter</td>
@@ -45,11 +45,11 @@ Development of MED began as part of the Final BLE Vehicle project for the UC Ber
         </tr>
         <tr>
           <td>Operational Range</td>
-          <td> ## </td>
+          <td> tbd </td>
         </tr>
         <tr>
           <td>Climbing Gradient</td>
-          <td> ## </td>
+          <td> tbd </td>
         </tr>
         <tr>
           <td>Cost</td>
