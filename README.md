@@ -123,14 +123,12 @@ Coordinate Frames:
 - O: The global reference frame. This serves as the origin for measuring key lengths and angles for the system's kinematics.
 
 Key Measurements:
-
 - Width (W): Denotes the total width of the rover, measured from the outer edges of the wheels on the left and right sides.
 - Length (L): Refers to the overall length of the rover, including the front and rear sections.
 - Arm Radius (R): Represents the distance from the centroid of the arms at O<sub>2</sub> to the tip of the rocker arm wheels.
-- Arm Wheel Radius (r_0): Radius of arm wheels
-- Rear Wheel radius (r_1): Radius of rear wheels
+- Arm Wheel Radius (r<sub>0</sub>): Describes the radius of the arm wheels connected to the rocker arms.
+- Rear Wheel radius (r<sub>1</sub>): Denotes the radius of the rear wheels of the rover.
 Angles:
-
-- θ_r: Right arm swing angle.
-- θ_l: Left arm swing angle.
-- θ_b: Rear body rotation angle.
+- θ<sub>r</sub>: The right arm swing angle, which defines the rotational displacement of the right rocker arm about its pivot point at O<sub>2</sub>.
+- θ<sub>l</sub>: The left arm swing angle, representing the rotational displacement of the left rocker arm about its pivot point at O<sub>1</sub>.
+- θ<sub>b</sub>: The rear body rotation angle, indicating the tilt or rotation of the rear section of the rover relative to the global reference frame.
