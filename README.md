@@ -146,3 +146,14 @@ Angles:
 The diagram shows the rover's geometric and kinematic structure, focusing on the relationship between the rocker-bogie arms, wheels, and the main body. The rover is shown with its front and rear sections positioned about the center of mass, labeled as C. The length of the rover, L, is measured between the front and rear wheels, while the width W is measured between the outermost points of the left and right wheels. The rocker arms pivot at origins O<sub>2</sub>​ and O<sub>1</sub>​, and their rotation is described by the swing angles θ<sub>r</sub> and θ<sub>l</sub>​. The rotation of the rear section is described by θ<sub>b</sub>​. 
 
 The radii R and r<sub>0</sub>​ describe the size and positioning of the rocker arm wheels, with R being the length from the rocker arm pivot point to the wheel, and r<sub>0</sub> and r<sub>1</sub> defining the sizes of the arm wheels and rear wheels, respectively.
+
+
+<table>
+  <tr>
+    <th>Specification</th>
+    <th>Details</th>
+  </tr>
+   <tr>
+    <th>Specification</th>
+    <th>Details</th>
+  </tr>
