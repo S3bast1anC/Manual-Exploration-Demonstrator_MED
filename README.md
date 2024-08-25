@@ -105,6 +105,8 @@ To ensure the code runs correctly, you need to install the following libraries:
 
 ![Untitled-1](https://github.com/user-attachments/assets/ee7e7a2d-93f2-459b-b860-7263f17b6efb)
 
+To change the rpm the motors go at go to lines 302-305 and edit 'L_MOTOR1->setSpeed(##)'; 
+
 ## Maths
 This drawing presents the geometric parameter model of MED. The diagram highlights the rover's key coordinate frames, geometric parameters, and critical angles.
 
