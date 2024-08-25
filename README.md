@@ -90,22 +90,22 @@ The V-in on the the adafruit motor shield was busted (i.e it wouldn't power the 
 
 ## Software
 ### Setup
-
+The software for MED is designed to run on Arduino BLE software and communicates with the rover's motors and sensors via Bluetooth using the Ada_BLE_RC program. Ensure that the following three files are placed inside this folder:
 1. Ada_BLE_RC.ino - This is the main Arduino sketch file that contains the code to control the rover.
 2. BluefruitConfig.h - This header file includes configuration settings specific to the Adafruit Bluefruit BLE module, such as connection parameters and pin definitions.
 3. packetParser.cpp - This C++ file handles the parsing of incoming data packets from the Bluetooth controller, translating them into motor control commands for the rover.
 
-Once you have these files inside the Ada_BLE_RC folder, the entire folder should be uploaded to the Arduino IDE.
-
-To ensure the code runs correctly, you need to install the following libraries:
+Once you have these files inside the Ada_BLE_RC folder, the entire folder should be uploaded to the Arduino IDE. To ensure the code runs correctly, you need to install the following libraries:
 - Adafruit BluefruitLE nRF51 (Includes Adafruit_BLE, Adafruit_BluefruitLE_SPI, Adafruit_BluefruitLE_UART)
 - SPI (Built-in with Arduino IDE)
 - SoftwareSerial (Built-in with Arduino IDE)
-- rduino (Built-in with Arduino IDE)
+
+## Bluetooth
+
 
 ![Untitled-1](https://github.com/user-attachments/assets/ee7e7a2d-93f2-459b-b860-7263f17b6efb)
 
-To change the rpm the motors go at go to lines 302-305 and edit 'L_MOTOR1->setSpeed(##)'; 
+To change the rpm the motors go at go to lines 302-305 (for example 'L_MOTOR1->setSpeed(##);' ).
 
 ## Maths
 This drawing presents the geometric parameter model of MED. The diagram highlights the rover's key coordinate frames, geometric parameters, and critical angles.
