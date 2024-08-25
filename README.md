@@ -29,7 +29,7 @@ Development of MED began as part of the Final BLE Vehicle project for the UC Ber
         </tr>
         <tr>
           <td>Dimension (LxWxH)</td>
-          <td>3.38m x 2.24m x 1.03m</td>
+          <td>33.81cm x 22.4cm x 10.37cm</td>
         </tr>
         <tr>
           <td>Top Speed</td>
