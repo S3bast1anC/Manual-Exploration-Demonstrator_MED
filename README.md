@@ -147,7 +147,7 @@ The diagram shows the rover's geometric and kinematic structure, focusing on the
 
 The radii R and r<sub>0</sub>​ describe the size and positioning of the rocker arm wheels, with R being the length from the rocker arm pivot point to the wheel, and r<sub>0</sub> and r<sub>1</sub> defining the sizes of the arm wheels and rear wheels, respectively.
 
-<p align="center">
+<div align="center">
 <table>
   <tr>
     <th>Specification</th>
@@ -158,4 +158,4 @@ The radii R and r<sub>0</sub>​ describe the size and positioning of the rocker
     <th>Details</th>
   </tr>
 </table>
-</p>
+</div>
