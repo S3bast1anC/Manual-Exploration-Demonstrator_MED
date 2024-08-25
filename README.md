@@ -100,9 +100,13 @@ Once you have these files inside the Ada_BLE_RC folder, the entire folder should
 - SPI (Built-in with Arduino IDE)
 - SoftwareSerial (Built-in with Arduino IDE)
 
-## Bluetooth
-
-
+### Bluetooth
+The Bluefruit Connect app by Adafruit allows you to send commands to your rover via Bluetooth using a smartphone. Once the app is installed, follow these steps to connect your rover:
+- Enable Bluetooth on your smartphone if it's not already on
+- Open the Bluefruit Connect app
+- Tap the "Connect" button within the app. It will scan for available Bluetooth devices
+- Select your Bluefruit BLE module from the list of available devices (it may be named something like "Bluefruit52" or "UART")
+- Once connected, you can access various control options within the app such as Control Pad, Accelerometer, or Color Picker to send commands to the rover
 ![Untitled-1](https://github.com/user-attachments/assets/ee7e7a2d-93f2-459b-b860-7263f17b6efb)
 
 To change the rpm the motors go at go to lines 302-305 (for example 'L_MOTOR1->setSpeed(##);' ).
@@ -129,5 +133,3 @@ Angles:
 - θ_r: Right arm swing angle.
 - θ_l: Left arm swing angle.
 - θ_b: Rear body rotation angle.
-
-## Software
