@@ -112,6 +112,7 @@ Once you have these files inside the Ada_BLE_RC folder, the entire folder should
 - SPI (Built-in with Arduino IDE)
 - SoftwareSerial (Built-in with Arduino IDE)
 
+*To change the rpm the motors go at go to lines 302-305 (for example 'L_MOTOR1->setSpeed(##);' ).
 ### Bluetooth
 The Bluefruit Connect app by Adafruit allows you to send commands to your rover via Bluetooth using a smartphone. Once the app is installed:
 - Enable Bluetooth on your smartphone if it's not already on
@@ -121,9 +122,6 @@ The Bluefruit Connect app by Adafruit allows you to send commands to your rover 
 - Once connected, you can access various control options within the app such as Control Pad, Accelerometer, or Color Picker to send commands to the rover
 
 ![Untitled-1](https://github.com/user-attachments/assets/ee7e7a2d-93f2-459b-b860-7263f17b6efb)
-
-To change the rpm the motors go at go to lines 302-305 (for example 'L_MOTOR1->setSpeed(##);' ).
-
 ## Parameterized Design Model
 This drawing presents the geometric parameter model of MED. The diagram highlights the rover's key coordinate frames, geometric parameters, and critical angles.
 
