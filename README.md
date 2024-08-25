@@ -41,7 +41,7 @@ Development of MED began as part of the Final BLE Vehicle project for the UC Ber
         </tr>
         <tr>
           <td>Wheel Diameter</td>
-          <td> ## </td>
+          <td> 6.9cm (front/rear), 8.61cm (back) </td>
         </tr>
         <tr>
           <td>Operational Range</td>
