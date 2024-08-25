@@ -53,7 +53,7 @@ Development of MED began as part of the Final BLE Vehicle project for the UC Ber
         </tr>
         <tr>
           <td>Cost</td>
-          <td> ## </td>
+          <td>$90.61</td>
         </tr>
       </table>
     </td>
