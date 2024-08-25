@@ -120,13 +120,13 @@ This drawing presents the geometric parameter model of MED. The diagram highligh
 </p>
 
 Coordinate Frames:
-- O: Global reference frame.
+- O: The global reference frame. This serves as the origin for measuring key lengths and angles for the system's kinematics.
 
 Key Measurements:
 
-- Width (W): Rover’s total width.
-- Length (L): Length of front and rear sections.
-- Arm Radius (R): Radius of arms centroid to tip of rocker arm wheels
+- Width (W): Denotes the total width of the rover, measured from the outer edges of the wheels on the left and right sides.
+- Length (L): Refers to the overall length of the rover, including the front and rear sections.
+- Arm Radius (R): Represents the distance from the centroid of the arms at O<sub>2</sub> to the tip of the rocker arm wheels.
 - Arm Wheel Radius (r_0): Radius of arm wheels
 - Rear Wheel radius (r_1): Radius of rear wheels
 Angles:
