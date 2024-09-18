@@ -123,7 +123,7 @@ The Bluefruit Connect app by Adafruit allows you to send commands to your rover 
 
 ![Untitled-1](https://github.com/user-attachments/assets/ee7e7a2d-93f2-459b-b860-7263f17b6efb)
 ## Parameterized Design Model
-This drawing presents the geometric parameter model of MED. The diagram highlights the rover's key coordinate frames, geometric parameters, and critical angles.
+This drawing presents the geometri parameter model of MED. The diagram highlights the rover's key coordinate frames, geometric parameters, and critical angles.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c7d1c9f2-744d-4b60-a5c9-23852d92105f" width="550" height="400" />
