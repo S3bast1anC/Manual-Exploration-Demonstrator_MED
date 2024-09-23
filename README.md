@@ -112,7 +112,7 @@ Once you have these files inside the Ada_BLE_RC folder, the entire folder should
 - SPI (Built-in with Arduino IDE)
 - SoftwareSerial (Built-in with Arduino IDE)
 
-*To change the rpm the motors go at go to lines 302-305 (for example 'L_MOTOR1->setSpeed(##);' ).
+*To change the rpm of the motors go to lines 302-305 (for example 'L_MOTOR1->setSpeed(##);' ).
 ### Bluetooth
 The Bluefruit Connect app by Adafruit allows you to send commands to your rover via Bluetooth using a smartphone. Once the app is installed:
 - Enable Bluetooth on your smartphone if it's not already on
