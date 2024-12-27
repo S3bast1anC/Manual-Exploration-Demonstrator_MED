@@ -138,6 +138,7 @@ Key Measurements:
 - Arm Radius (R): Represents the distance from the centroid of the arms at O<sub>2</sub> to the tip of the rocker arm wheels.
 - Arm Wheel Radius (r<sub>0</sub>): Describes the radius of the arm wheels connected to the rocker arms.
 - Rear Wheel radius (r<sub>1</sub>): Denotes the radius of the rear wheels of the rover.
+  
 Angles:
 - θ<sub>r</sub>: The right arm swing angle, which defines the rotational displacement of the right rocker arm about its pivot point at O<sub>2</sub>.
 - θ<sub>l</sub>: The left arm swing angle, representing the rotational displacement of the left rocker arm about its pivot point at O<sub>1</sub>.
